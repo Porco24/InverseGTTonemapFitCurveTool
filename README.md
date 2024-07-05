@@ -1,0 +1,2 @@
+# InverseGTTonemapFitCurveTool
+拟合第三段函数用
